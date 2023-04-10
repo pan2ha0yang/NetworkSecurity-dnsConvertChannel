@@ -1,5 +1,4 @@
-网络安全
-DNS隐蔽传输信道
+网络安全 DNS隐蔽传输信道
 
 实验环境：
 Windows11主机 + Ubuntu22.04.2VMware虚拟机
